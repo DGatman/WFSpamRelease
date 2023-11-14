@@ -1,0 +1,19 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(137,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(149,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(250,51): warning C4129: A: неизвестная escape-последовательность
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(250,51): warning C4129: L: неизвестная escape-последовательность
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(250,51): warning C4129: G: неизвестная escape-последовательность
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(296,43): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(297,38): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(300,17): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(304,26): warning C4267: =: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(274,29): warning C4101: mstroke: неиспользованная локальная переменная
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(273,27): warning C4101: kstroke: неиспользованная локальная переменная
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(272,24): warning C4101: mouseDevice: неиспользованная локальная переменная
+  Создание кода
+  1 of 374 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> C:\Users\danii\source\repos\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
