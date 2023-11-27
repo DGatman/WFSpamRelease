@@ -1,19 +1,19 @@
 ﻿  ConsoleApplication1.cpp
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(223,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(235,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(374,43): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(375,38): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(378,17): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(382,26): warning C4267: =: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(390,40): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(391,35): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(393,65): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(396,25): warning C4267: =: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(356,29): warning C4101: mstroke: неиспользованная локальная переменная
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(355,27): warning C4101: kstroke: неиспользованная локальная переменная
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(218,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(230,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(369,43): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(370,38): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(373,17): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(377,26): warning C4267: =: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(385,40): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(386,35): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(388,65): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(391,25): warning C4267: =: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(351,29): warning C4101: mstroke: неиспользованная локальная переменная
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(350,27): warning C4101: kstroke: неиспользованная локальная переменная
   Создание кода
-  40 of 465 functions ( 8.6%) were compiled, the rest were copied from previous compilation.
-    3 functions were new in current compilation
-    27 functions had inline decision re-evaluated but remain unchanged
+  2 of 465 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
   ConsoleApplication1.vcxproj -> C:\Users\danii\source\repos\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
