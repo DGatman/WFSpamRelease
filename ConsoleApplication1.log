@@ -9,8 +9,6 @@ C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(385,40):
 C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(386,35): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
 C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(388,65): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
 C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(391,25): warning C4267: =: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(434,32): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(434,29): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
 C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(351,29): warning C4101: mstroke: неиспользованная локальная переменная
 C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(350,27): warning C4101: kstroke: неиспользованная локальная переменная
   Создание кода
