@@ -1,6 +1,6 @@
 @echo off
-taskkill /f /im GameCenter.exe
-taskkill /f /im Game.exe
+C:\Windows\System32\taskkill /f /im GameCenter.exe
+C:\Windows\System32\taskkill /f /im Game.exe
 ping 127.0.0.1 -n 6 > nul
 del / f / s / q "%USERPROFILE%\Saved Games\My Games\Warface\ProfileItems_*.xml
 del / f / s / q "%USERPROFILE%\Saved Games\My Games\Warface\modelscache\*.*
