@@ -1,2 +1,1 @@
-@echo off
-taskkill /f /im %1
+runas taskkill \f \m %1
