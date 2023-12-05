@@ -1,20 +1,19 @@
 ﻿  ConsoleApplication1.cpp
 C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(225,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
 C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(237,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(389,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(425,43): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(426,38): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(429,17): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(433,26): warning C4267: =: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(441,40): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(442,35): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(444,65): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(447,25): warning C4267: =: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(407,29): warning C4101: mstroke: неиспользованная локальная переменная
-C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(406,27): warning C4101: kstroke: неиспользованная локальная переменная
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(417,43): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(418,38): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(421,17): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(425,26): warning C4267: =: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(433,40): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(434,35): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(436,65): warning C4267: аргумент: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(439,25): warning C4267: =: преобразование из "size_t" в "InterceptionDevice"; возможна потеря данных
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(399,29): warning C4101: mstroke: неиспользованная локальная переменная
+C:\Users\danii\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(398,27): warning C4101: kstroke: неиспользованная локальная переменная
   Создание кода
-  3 of 467 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
-    2 functions were new in current compilation
-    17 functions had inline decision re-evaluated but remain unchanged
+  10 of 466 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
   ConsoleApplication1.vcxproj -> C:\Users\danii\source\repos\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
