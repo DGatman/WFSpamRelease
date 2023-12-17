@@ -5,9 +5,9 @@ ping 127.0.0.1 -n 6 > nul
 del / f / s / q "%USERPROFILE%\Saved Games\My Games\Warface\ProfileItems_*.xml
 del / f / s / q "%USERPROFILE%\Saved Games\My Games\Warface\modelscache\*.*
 del / f / s / q "%USERPROFILE%\Saved Games\My Games\Warface\user*.cfg
-del / f / s / q "B:\GameCenter\Warface\*.log
-del / f / s / q "B:\GameCenter\Warface\*.txt
-del / f / s / q "B:\GameCenter\Warface\LogBackups*.*
+del / f / s / q "D:\GameCenter\Warface\*.log
+del / f / s / q "D:\GameCenter\Warface\*.txt
+del / f / s / q "D:\GameCenter\Warface\LogBackups*.*
 del / f / s / q "%USERPROFILE%\AppData\Local\GameCenter\*.sig
 del / f / s / q "%USERPROFILE%\AppData\Local\GameCenter\*.log
 del / f / s / q "%USERPROFILE%\AppData\Local\GameCenter\*.trnt
