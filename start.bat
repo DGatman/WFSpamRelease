@@ -1,4 +1,4 @@
 @echo off
-cd C:\Users\Administrator\WFSpamRelease
+cd C:\Users\%username%\WFSpamRelease
 git pull
 start ConsoleApplication1.exe
